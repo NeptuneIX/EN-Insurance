@@ -21,7 +21,7 @@ EN Insurance is a responsive front-end web application that showcases a user-cen
 To run this project locally:
 
 1. Clone the repository:
-   `git clone https://github.com/yourusername/en-insurance.git`
+   `git clone https://github.com/NeptuneIX/EN-Insurance.git`
 2. Open the `index.html` file in a web browser.
 
 ## Project Structure
